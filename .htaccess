@@ -1,0 +1,2 @@
+ErrorDocument 404 http://localhost:78/sonrisas/error_404.php
+ErrorDocument 500 http://localhost:78/sonrisas/error_500.php;

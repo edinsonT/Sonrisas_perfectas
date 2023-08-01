@@ -1,0 +1,51 @@
+body {
+    background-color: #fceff2; /* Verde claro */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para el encabezado o navbar */
+  .navbar {
+    background-color: #832850; /* Rosa oscuro */
+  }
+  
+
+  
+  /* Estilos para la tabla de citas */
+  .table-citas {
+    margin-top: 20px;
+  }
+  
+  .table-citas th,
+  .table-citas td {
+    text-align: center;
+  }
+  
+  /* Estilos para el título de la página */
+  .page-title {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #832850; /* Rosa oscuro */
+    margin-top: 30px;
+  }
+  
+  /* Estilos para los mensajes de éxito y error */
+  .alert {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .alert-success {
+    background-color: #b2facf; /* Verde claro */
+    border-color: #b2facf; /* Verde claro */
+    color: #000;
+  }
+  
+  .alert-danger {
+    background-color: #ff99ab; /* Rosa claro */
+    border-color: #ff99ab; /* Rosa claro */
+    color: #000;
+  }
+  
